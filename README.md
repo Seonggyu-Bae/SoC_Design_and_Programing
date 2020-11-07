@@ -25,6 +25,6 @@
 ![architecture](https://postfiles.pstatic.net/MjAyMDExMDdfMTA0/MDAxNjA0NzI3NTQ5MDUx.EOIxW75icv89Eo39w0BSP3KDx1_KA55pOjYJraeCjzYg.WTZLh94QtgPM96hBW08lyaMMGM96LUj0akQRYs9YX9Yg.PNG.qotjdrb6/image.png?type=w773)
 
 
-### [cla_16bits.v](https://github.com/Seonggyu-Bae/SoC_Design_and_Programing/blob/main/16bit-Carry-Look_Ahead%20Adder/testbench_CLA.v)
+### [testbench_CLA.v](https://github.com/Seonggyu-Bae/SoC_Design_and_Programing/blob/main/16bit-Carry-Look_Ahead%20Adder/testbench_CLA.v)
 
 ![architecture](https://postfiles.pstatic.net/MjAyMDExMDdfMjM2/MDAxNjA0NzI3NTk0NjU3.JgsCQuYW4AjC5XwL052n5nCO1c8nKch7c63LkXz-4g8g.3gWLrumUKJ90I10hSJ1XLx9yeor6CCnBYLZhay2zk5Ag.PNG.qotjdrb6/image.png?type=w773)
