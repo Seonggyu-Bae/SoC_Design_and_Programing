@@ -4,7 +4,7 @@
 
 **많은 것을 배웠지만 우선 간단한 과제 하나만 올려보려고 합니다**
 
-# 16-bit Carry-Look-Aheda Adder
+# 16-bit Carry-Look-Ahead Adder
 
 ![architecture](https://postfiles.pstatic.net/MjAyMDExMDdfOTAg/MDAxNjA0NzI3NDQ3OTk5.pCwRUIx0RwC1BsYKYUQA0qbViMiRRDr30Wp1k3Aqkt8g.p1n9kVQiHelIF8R7O_aGt_sUpF0repCqnmoqLMXQsgQg.PNG.qotjdrb6/image.png?type=w773)
 
