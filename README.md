@@ -8,7 +8,7 @@
 
 ![architecture](https://postfiles.pstatic.net/MjAyMDExMDdfOTAg/MDAxNjA0NzI3NDQ3OTk5.pCwRUIx0RwC1BsYKYUQA0qbViMiRRDr30Wp1k3Aqkt8g.p1n9kVQiHelIF8R7O_aGt_sUpF0repCqnmoqLMXQsgQg.PNG.qotjdrb6/image.png?type=w773)
 
-### [adder.v](https://github.com/Seonggyu-Bae/SoC_Design_and_Programing/blob/main/16bit-Carry-Look_Ahead%20Adder/adder.v)
+### [adder.v](https://github.com/Seonggyu-Bae/SoC_Design_and_Programing/blob/main/16bit-Carry-Look_Ahead%20Adder/adder.v) 완료된 코드
 
 ![architecture](https://postfiles.pstatic.net/MjAyMDExMDdfMjE4/MDAxNjA0NzI3NDgyNjYy.nKbmDIgV1NPoAOE_4SDGlTRpXjvOUy9ohWx7D8Q9Gigg.XaX5JDX-rPacCjt90i2qrSOTNCu__E6rorlxO9F-iVMg.PNG.qotjdrb6/image.png?type=w773)
 
