@@ -8,19 +8,19 @@
 
 ![architecture](https://postfiles.pstatic.net/MjAyMDExMDdfOTAg/MDAxNjA0NzI3NDQ3OTk5.pCwRUIx0RwC1BsYKYUQA0qbViMiRRDr30Wp1k3Aqkt8g.p1n9kVQiHelIF8R7O_aGt_sUpF0repCqnmoqLMXQsgQg.PNG.qotjdrb6/image.png?type=w773)
 
-### [adder.v](https://github.com/Seonggyu-Bae/SoC_Design_and_Programing/blob/main/16bit-Carry-Look_Ahead%20Adder/adder.v) 완료된 코드
+### [완성된 adder.v](https://github.com/Seonggyu-Bae/SoC_Design_and_Programing/blob/main/16bit-Carry-Look_Ahead%20Adder/adder.v)
 
 ![architecture](https://postfiles.pstatic.net/MjAyMDExMDdfMjE4/MDAxNjA0NzI3NDgyNjYy.nKbmDIgV1NPoAOE_4SDGlTRpXjvOUy9ohWx7D8Q9Gigg.XaX5JDX-rPacCjt90i2qrSOTNCu__E6rorlxO9F-iVMg.PNG.qotjdrb6/image.png?type=w773)
 
-### [clag.v](https://github.com/Seonggyu-Bae/SoC_Design_and_Programing/blob/main/16bit-Carry-Look_Ahead%20Adder/clag.v)
+### [완성된 clag.v](https://github.com/Seonggyu-Bae/SoC_Design_and_Programing/blob/main/16bit-Carry-Look_Ahead%20Adder/clag.v)
 
 ![architecture](https://postfiles.pstatic.net/MjAyMDExMDdfMjE0/MDAxNjA0NzI3NTAyNjM5.wU3qdcgEMkm9z7vPs4Y5UjHK66m3vJodBqpiHkHndIMg.UZyGVKOF0WtTQwCmDhNH64U3zTGQVnNjfObkhHJwDaIg.PNG.qotjdrb6/image.png?type=w773)
 
-### [cla_4bits.v](https://github.com/Seonggyu-Bae/SoC_Design_and_Programing/blob/main/16bit-Carry-Look_Ahead%20Adder/cla_4bits.v)
+### [완성된 cla_4bits.v](https://github.com/Seonggyu-Bae/SoC_Design_and_Programing/blob/main/16bit-Carry-Look_Ahead%20Adder/cla_4bits.v)
 
 ![architecture](https://postfiles.pstatic.net/MjAyMDExMDdfMSAg/MDAxNjA0NzI3NTI0Mjk0.8fSYz8z-JBZt_VhgOJowyBi1CHEMRK01muWbD_BkJBEg.6GyXK_HupQxFoBuNEQQb4OYtlX3YdeIS9sQH8HgePlcg.PNG.qotjdrb6/image.png?type=w773)
 
-### [cla_16bits.v](https://github.com/Seonggyu-Bae/SoC_Design_and_Programing/blob/main/16bit-Carry-Look_Ahead%20Adder/cla_16bits.v)
+### [완성된 cla_16bits.v](https://github.com/Seonggyu-Bae/SoC_Design_and_Programing/blob/main/16bit-Carry-Look_Ahead%20Adder/cla_16bits.v)
 
 ![architecture](https://postfiles.pstatic.net/MjAyMDExMDdfMTA0/MDAxNjA0NzI3NTQ5MDUx.EOIxW75icv89Eo39w0BSP3KDx1_KA55pOjYJraeCjzYg.WTZLh94QtgPM96hBW08lyaMMGM96LUj0akQRYs9YX9Yg.PNG.qotjdrb6/image.png?type=w773)
 
