@@ -28,3 +28,5 @@
 ### [testbench_CLA.v](https://github.com/Seonggyu-Bae/SoC_Design_and_Programing/blob/main/16bit-Carry-Look_Ahead%20Adder/testbench_CLA.v)
 
 ![architecture](https://postfiles.pstatic.net/MjAyMDExMDdfMjM2/MDAxNjA0NzI3NTk0NjU3.JgsCQuYW4AjC5XwL052n5nCO1c8nKch7c63LkXz-4g8g.3gWLrumUKJ90I10hSJ1XLx9yeor6CCnBYLZhay2zk5Ag.PNG.qotjdrb6/image.png?type=w773)
+
+**연산이 정확한지 testbench 를 통해 확인할 수 있다** 
